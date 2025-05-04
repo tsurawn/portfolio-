@@ -29,7 +29,7 @@ a{
     transition:0.5s;
 }
 
-.a:hover{
+a:hover{
     transform:scale(1.5);
 }
 

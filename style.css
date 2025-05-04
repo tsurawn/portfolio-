@@ -1,0 +1,129 @@
+body{
+    background-color: rgb(204, 28, 28);
+    margin: 0;
+}
+
+img{
+    box-align: center;
+    margin: auto;
+    display: block;
+    height: 150px;
+    width: 200px;
+}
+
+nav{
+    text-align: center;
+    background-color: black;
+    padding: 2%;
+    flex-direction: space-between;
+
+    
+}
+
+a{
+    color: brown;
+    padding: 5%;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+
+}
+
+ 
+
+  
+
+.sobremim{
+     text-align: left;
+     margin-top: 10%;
+     margin-left: 3%;
+     font-size: 20px;
+     
+}
+
+ .eu:hover{
+    transform: scale(1.1);
+    transition: 0.3s;
+ }
+
+.eu:hover{
+    filter: drop-shadow(10px 10px 10px black)
+}
+.eu{
+    float: right;
+   height: 250px;
+   width: 250px;
+   margin-right: 10%;
+   margin-top: -10%;
+   border-style: groove black;
+   border-radius: 5px solid black;
+   transition: 1.5s ease;
+}
+
+.formaçao{
+    margin: 3%;
+    margin-top: 20%;
+    font-size: 18px;
+    margin-left: 2%;
+    
+    
+}
+
+#cursos{
+    font-size: 25px;
+    margin-left: 2%;
+}
+
+ 
+
+.oi{
+    background-color: rgb(139, 10, 10);
+    border-radius: 2px 1px 1px black;
+    filter: drop-shadow(10px 10px 10px black);
+    padding: 10px;
+    margin-top: 5%;
+    margin-bottom: 20%;
+    margin-left: 2%;
+}
+
+#xp{
+    font-size: 30px;
+}
+
+.expe{
+    background-color:  rgb(204, 28, 28);
+    margin-top: -10%;
+    margin-left: 5%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+    text-align: left;
+    font-size: larger;
+    padding: 1%;
+}
+.expe{
+    filter: drop-shadow(0.1px 1px 0.1px rgb(51, 1, 1));
+}
+
+.contato{
+     
+    background: rgb(99, 3, 3);
+    padding-left: 5%;
+    padding-top: 1%;
+    padding-bottom: 2%;
+    color: rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+ 
+#email{
+    color: brown;
+
+    
+}
+
+ 
+
+#numero{
+    color: brown;
+}
